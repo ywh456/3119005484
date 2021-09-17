@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="lunwenchachong:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ebf71e45-0f2e-4839-9e65-baa482f22964" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="15" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="AnnotationType" />
+        <option value="Class" />
+        <option value="Arquillian JUnit Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1xr1RH8KDLCbdvAxYMlvtFNskbB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/META-INF" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="YWH" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="main" />
+      <recent name="YWH" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\MZ\Desktop\lunwenchachong\.idea\libraries" />
+      <recent name="C:\Users\MZ\Desktop\lunwenchachong\out\production\lunwenchachong" />
+      <recent name="C:\Users\MZ\Desktop\lunwenchachong\src" />
+      <recent name="C:\Users\MZ\Desktop\lunwenchachong" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\MZ\Desktop\lunwenchachong\src\main\resources\META-INF" />
+      <recent name="C:\Users\MZ\Desktop\lunwenchachong\src\META-INF" />
+      <recent name="C:\Users\MZ\Desktop\lunwenchachong\src\YWH" />
+      <recent name="C:\Users\MZ\Desktop\lunwenchachong\out\production\lunwenchachong" />
+      <recent name="C:\Users\MZ\Desktop\lunwenchachong" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="YWH" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.mainTest.mainteestDIS_10">
+    <configuration name="test" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <module name="3119005484_PersonalProgrammingAssignment" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in 3119005484_PersonalProgrammingAssignment" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="3119005484_PersonalProgrammingAssignment" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lunwenchachong 中的 test " type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="3119005484_PersonalProgrammingAssignment" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mainTest" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="3119005484_PersonalProgrammingAssignment" />
+      <useClassPathOnly />
+      <extension name="coverage" sample_coverage="false">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="main" />
+      <option name="MAIN_CLASS_NAME" value="main.mainTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mainTest.mainteestDIS_10" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="3119005484_PersonalProgrammingAssignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="main" />
+      <option name="MAIN_CLASS_NAME" value="main.mainTest" />
+      <option name="METHOD_NAME" value="mainteestDIS_10" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mainTest.maintest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="3119005484_PersonalProgrammingAssignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="main" />
+      <option name="MAIN_CLASS_NAME" value="main.mainTest" />
+      <option name="METHOD_NAME" value="maintest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mainTest.maintestADD" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="3119005484_PersonalProgrammingAssignment" />
+      <useClassPathOnly />
+      <extension name="coverage" sample_coverage="false">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="main" />
+      <option name="MAIN_CLASS_NAME" value="main.mainTest" />
+      <option name="METHOD_NAME" value="maintestADD" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="wenjian_IOTest.read" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="3119005484_PersonalProgrammingAssignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="unit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="unit" />
+      <option name="MAIN_CLASS_NAME" value="unit.wenjian_IOTest" />
+      <option name="METHOD_NAME" value="read" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.test" />
+      <item itemvalue="JUnit.lunwenchachong 中的 test " />
+      <item itemvalue="JUnit.mainTest" />
+      <item itemvalue="JUnit.All in 3119005484_PersonalProgrammingAssignment" />
+      <item itemvalue="JUnit.mainTest.maintestADD" />
+      <item itemvalue="JUnit.wenjian_IOTest.read" />
+      <item itemvalue="JUnit.mainTest.maintest" />
+      <item itemvalue="JUnit.mainTest.mainteestDIS_10" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.mainTest.mainteestDIS_10" />
+        <item itemvalue="JUnit.mainTest.maintest" />
+        <item itemvalue="JUnit.All in 3119005484_PersonalProgrammingAssignment" />
+        <item itemvalue="JUnit.mainTest.maintestADD" />
+        <item itemvalue="JUnit.wenjian_IOTest.read" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ebf71e45-0f2e-4839-9e65-baa482f22964" name="默认更改列表" comment="" />
+      <created>1631098382707</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631098382707</updated>
+      <workItem from="1631098387667" duration="8757000" />
+      <workItem from="1631250425014" duration="31943000" />
+      <workItem from="1631373202278" duration="1132000" />
+      <workItem from="1631412189903" duration="21573000" />
+      <workItem from="1631453740161" duration="718000" />
+      <workItem from="1631524818369" duration="19214000" />
+      <workItem from="1631619802817" duration="5674000" />
+      <workItem from="1631707942090" duration="416000" />
+      <workItem from="1631708391224" duration="11925000" />
+      <workItem from="1631720475248" duration="1936000" />
+      <workItem from="1631776621151" duration="4631000" />
+      <workItem from="1631803671261" duration="62000" />
+      <workItem from="1631803987582" duration="1619000" />
+      <workItem from="1631805872201" duration="1011000" />
+      <workItem from="1631807061694" duration="167000" />
+      <workItem from="1631807346066" duration="1000" />
+      <workItem from="1631808341939" duration="91000" />
+      <workItem from="1631808458363" duration="410000" />
+      <workItem from="1631808917362" duration="1178000" />
+      <workItem from="1631853463180" duration="487000" />
+      <workItem from="1631853975853" duration="2714000" />
+      <workItem from="1631880574927" duration="2683000" />
+      <workItem from="1631883301489" duration="9542000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="74" key="#Arquillian_Containers" timestamp="1631712082989">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="74" key="#Arquillian_Containers/0.0.1536.824@0.0.1536.824" timestamp="1631712082989" />
+    <state x="372" y="76" key="#HaiMing_testTest" timestamp="1631630427965">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="372" y="76" key="#HaiMing_testTest.getHaiMing" timestamp="1631630702884">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="372" y="76" key="#HaiMing_testTest.getHaiMing/0.0.1536.824@0.0.1536.824" timestamp="1631630702884" />
+    <state x="372" y="76" key="#HaiMing_testTest/0.0.1536.824@0.0.1536.824" timestamp="1631630427965" />
+    <state x="372" y="76" key="#HashTest.getHash" timestamp="1631712084524">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="372" y="76" key="#HashTest.getHash/0.0.1536.824@0.0.1536.824" timestamp="1631712084524" />
+    <state x="262" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1631887578321">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="262" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1631887578321" />
+    <state x="609" y="221" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1631716575186">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="609" y="221" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1631716575186" />
+    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser" timestamp="1631432706963">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1631432706963" />
+    <state x="537" y="199" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1631854355290">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="537" y="199" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1631854355290" />
+    <state x="942" y="179" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1631710325518">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="942" y="179" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1536.824@0.0.1536.824" timestamp="1631710325518" />
+    <state x="993" y="305" width="319" height="271" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1631719757783">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="993" y="305" width="319" height="271" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1631719757783" />
+    <state x="883" y="165" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1631438020370">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="883" y="165" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1631438020370" />
+    <state x="499" y="162" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1631433898974">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="162" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1536.824@0.0.1536.824" timestamp="1631433898974" />
+    <state x="372" y="76" key="#lunwenchachong_中的_test_" timestamp="1631619607936">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="372" y="76" key="#lunwenchachong_中的_test_/0.0.1536.824@0.0.1536.824" timestamp="1631619607936" />
+    <state x="788" y="39" key="#main" timestamp="1631630841353">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="788" y="39" key="#main/0.0.1536.824@0.0.1536.824" timestamp="1631630841353" />
+    <state x="372" y="89" key="#mainTest" timestamp="1631620500236">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="372" y="89" key="#mainTest/0.0.1536.824@0.0.1536.824" timestamp="1631620500236" />
+    <state x="372" y="76" key="#wenjian_IOTest.read" timestamp="1631714926220">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="372" y="76" key="#wenjian_IOTest.read/0.0.1536.824@0.0.1536.824" timestamp="1631714926220" />
+    <state x="361" y="74" key="#项目结构" timestamp="1631351848406">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="74" key="#项目结构/0.0.1536.824@0.0.1536.824" timestamp="1631351848406" />
+    <state x="689" y="130" key="DetectedRootsChooserDialog" timestamp="1631412262973">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="689" y="130" key="DetectedRootsChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1631412262973" />
+    <state x="736" y="251" key="FileChooserDialogImpl" timestamp="1631853714459">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="736" y="251" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1631853714459" />
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom" timestamp="1631894723848">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1631894723848" />
+    <state width="1493" height="261" key="GridCell.Tab.0.center" timestamp="1631894723848">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1631894723848" />
+    <state width="1493" height="261" key="GridCell.Tab.0.left" timestamp="1631894723848">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1631894723848" />
+    <state width="1493" height="261" key="GridCell.Tab.0.right" timestamp="1631894723848">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1631894723848" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1631894723848">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1631894723848" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1631894723848">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1631894723848" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1631894723848">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1631894723848" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1631894723848">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1631894723848" />
+    <state x="415" y="0" key="SettingsEditor" timestamp="1631894143512">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="415" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1631894143512" />
+    <state x="478" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1631883474130">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="478" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1631883474130" />
+    <state x="598" y="301" key="com.intellij.ide.util.TipDialog/0.0.1920.1030@0.0.1920.1030" timestamp="1631808342133" />
+    <state x="485" y="313" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1631708315332">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="485" y="313" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.824@0.0.1536.824" timestamp="1631708315332" />
+    <state x="540" y="130" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1631810027692">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="540" y="130" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1631810027692" />
+    <state x="409" y="1" width="718" height="822" key="find.popup" timestamp="1631719439646">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="409" y="1" width="718" height="822" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1631719439646" />
+    <state x="178" y="28" key="new project wizard" timestamp="1631443440080">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="178" y="28" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1631443440080" />
+    <state x="857" y="48" key="refactoring.ChangeSignatureDialog" timestamp="1631721973257">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="857" y="48" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1631721973257" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1631532051456">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1631532051456" />
+    <state x="814" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1631883170122">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="814" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1631883170122" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/lunwenchachong$HashTest_getHash3.ic" NAME="HashTest.getHash3 Coverage Results" MODIFIED="1631713708804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>YWH.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/lunwenchachong$main.ic" NAME="main Coverage Results" MODIFIED="1631721283436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>main.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/lunwenchachong$mainTest_origAndAllTest.ic" NAME="mainTest.origAndAllTest Coverage Results" MODIFIED="1631722073932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>main.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/lunwenchachong$HashTest_getHash.ic" NAME="HashTest.getHash Coverage Results" MODIFIED="1631712938683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>YWH.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/lunwenchachong$wenjian_IOTest.ic" NAME="wenjian_IOTest Coverage Results" MODIFIED="1631718413171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>YWH.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/lunwenchachong$wenjian_IOTest_writeFile3.ic" NAME="wenjian_IOTest.writeFile3 Coverage Results" MODIFIED="1631716509071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>YWH.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/lunwenchachong$HashTest_getHash1.ic" NAME="HashTest.getHash1 Coverage Results" MODIFIED="1631881355470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>YWH.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/lunwenchachong$wenjian_IOTest_read2.ic" NAME="wenjian_IOTest.read2 Coverage Results" MODIFIED="1631881490542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>YWH.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/lunwenchachong$mainTest_mainteestDIS_1.ic" NAME="mainTest.mainteestDIS_1 Coverage Results" MODIFIED="1631883038212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>main.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/lunwenchachong$HaiMingTest_getHaiMing.ic" NAME="HaiMingTest.getHaiMing Coverage Results" MODIFIED="1631714406379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>YWH.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/lunwenchachong$mainTest.ic" NAME="mainTest Coverage Results" MODIFIED="1631889774716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>main.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/lunwenchachong$cipin_and_simhashTest_simHash.ic" NAME="cipin_and_simhashTest.simHash Coverage Results" MODIFIED="1631718920556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>YWH.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/lunwenchachong$mainTest_maintest1.ic" NAME="mainTest.maintest1 Coverage Results" MODIFIED="1631873716368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>main.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/lunwenchachong$lunwenchachong__YWH_.ic" NAME="lunwenchachong 中的 YWH  Coverage Results" MODIFIED="1631783216129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>YWH.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/lunwenchachong$FileExcepTest_FileExcepTest.ic" NAME="FileExcepTest.FileExcepTest Coverage Results" MODIFIED="1631717032711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>YWH.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/lunwenchachong$wenjian_IOTest_writeFile.ic" NAME="wenjian_IOTest.writeFile Coverage Results" MODIFIED="1631715263851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>YWH.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/lunwenchachong$wenjian_IOTest_read4.ic" NAME="wenjian_IOTest.read4 Coverage Results" MODIFIED="1631716120213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>YWH.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/lunwenchachong$cipin_and_simhashTest.ic" NAME="cipin_and_simhashTest Coverage Results" MODIFIED="1631719111758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>YWH.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/lunwenchachong$mainTest_main.ic" NAME="mainTest.main Coverage Results" MODIFIED="1631780881018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>main.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/lunwenchachong$All_in_3119005484_PersonalProgrammingAssignment.ic" NAME="All in 3119005484_PersonalProgrammingAssignment Coverage Results" MODIFIED="1631882993208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/lunwenchachong$wenjian_IOTest_read.ic" NAME="wenjian_IOTest.read Coverage Results" MODIFIED="1631715655609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>YWH.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/lunwenchachong$cipin_and_simhashTest_getTextDef.ic" NAME="cipin_and_simhashTest.getTextDef Coverage Results" MODIFIED="1631717865221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>YWH.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/lunwenchachong$HashTest_getHash2.ic" NAME="HashTest.getHash2 Coverage Results" MODIFIED="1631804039800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>YWH.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/lunwenchachong$maincheckTest_main.ic" NAME="maincheckTest.main Coverage Results" MODIFIED="1631810053049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>main.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/lunwenchachong$HashTest_getHash4.ic" NAME="HashTest.getHash4 Coverage Results" MODIFIED="1631713782230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>YWH.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/lunwenchachong$HashTest.ic" NAME="HashTest Coverage Results" MODIFIED="1631714202157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>YWH.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/lunwenchachong$cipin_and_simhashTest_simHash2.ic" NAME="cipin_and_simhashTest.simHash2 Coverage Results" MODIFIED="1631718662216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>YWH.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/lunwenchachong$HaiMingTest.ic" NAME="HaiMingTest Coverage Results" MODIFIED="1631714546643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>YWH.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/lunwenchachong$wenjian_IOTest_writeFile2.ic" NAME="wenjian_IOTest.writeFile2 Coverage Results" MODIFIED="1631716735214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>YWH.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/lunwenchachong$maincheckTest.ic" NAME="maincheckTest Coverage Results" MODIFIED="1631809852024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>main.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/lunwenchachong$cipin_and_simhashTest_getTextDef2.ic" NAME="cipin_and_simhashTest.getTextDef2 Coverage Results" MODIFIED="1631718073124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>YWH.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/lunwenchachong$mainTest_maintest.ic" NAME="mainTest.maintest Coverage Results" MODIFIED="1631889876292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>main.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/lunwenchachong$mainTest_checkSimilarity.ic" NAME="mainTest.checkSimilarity Coverage Results" MODIFIED="1631782771250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>main.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/lunwenchachong$mainTest_maintest2.ic" NAME="mainTest.maintest2 Coverage Results" MODIFIED="1631873900704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>main.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/lunwenchachong$Manual_container_configuration__HashTest_getHash.ic" NAME="Manual container configuration: HashTest.getHash Coverage Results" MODIFIED="1631712821119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>YWH.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/lunwenchachong$mainTest_maintestADD.ic" NAME="mainTest.maintestADD Coverage Results" MODIFIED="1631889041111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>main.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/lunwenchachong$wenjian_IOTest_read3.ic" NAME="wenjian_IOTest.read3 Coverage Results" MODIFIED="1631881475504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>YWH.*</FILTER>
+    </SUITE>
+  </component>
+</project>
