@@ -5,7 +5,6 @@ import org.junit.Test;
 import java.io.IOException;
 import java.util.Map;
 
-
 public class cipin_and_simhashTest {
 //测试分词器文本查看能否成功对文本分词;
     @Test
@@ -31,5 +30,4 @@ public class cipin_and_simhashTest {
             System.out.println(sim);
         }
     }
-
 }
