@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="FourOperations:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9e337554-256d-47e1-ae4e-dfff27f23078" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="234" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1zow1PvTsTYZZoc5RkJsemG1uX6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="main" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\MZ\Desktop\FourOperations" />
+      <recent name="C:\Users\MZ\Desktop\FourOperations\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ExpressionTest">
+    <configuration name="ExpressionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FourOperations" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ExpressionTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExpressionTest.countanswer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FourOperations" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ExpressionTest" />
+      <option name="METHOD_NAME" value="countanswer" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExpressionTest.jiafen" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FourOperations" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ExpressionTest" />
+      <option name="METHOD_NAME" value="jiafen" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExpressionTest.suffixExprssion" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FourOperations" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ExpressionTest" />
+      <option name="METHOD_NAME" value="suffixExprssion" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExpressionTest.whetherEqual" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FourOperations" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ExpressionTest" />
+      <option name="METHOD_NAME" value="whetherEqual" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.ExpressionTest.suffixExprssion" />
+      <item itemvalue="JUnit.ExpressionTest.jiafen" />
+      <item itemvalue="JUnit.ExpressionTest.countanswer" />
+      <item itemvalue="JUnit.ExpressionTest.whetherEqual" />
+      <item itemvalue="JUnit.ExpressionTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ExpressionTest" />
+        <item itemvalue="JUnit.ExpressionTest.whetherEqual" />
+        <item itemvalue="JUnit.ExpressionTest.countanswer" />
+        <item itemvalue="JUnit.ExpressionTest.jiafen" />
+        <item itemvalue="JUnit.ExpressionTest.suffixExprssion" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e337554-256d-47e1-ae4e-dfff27f23078" name="Default Changelist" comment="" />
+      <created>1634827532183</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1634827532183</updated>
+      <workItem from="1634827534843" duration="5076000" />
+      <workItem from="1634891578595" duration="16035000" />
+      <workItem from="1634956096315" duration="70686000" />
+      <workItem from="1635123827870" duration="3830000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="722" y="77" key="#Project_Structure" timestamp="1635090255459">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="722" y="77" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1635090255459" />
+    <state x="447" y="69" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1635086994626">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="447" y="69" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1635086994626" />
+    <state x="647" y="202" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1635127296814">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="647" y="202" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1635127296814" />
+    <state x="553" y="279" width="429" height="271" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1635089635191">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="553" y="279" width="429" height="271" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1635089635191" />
+    <state x="698" y="170" key="FileChooserDialogImpl" timestamp="1635125871554">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="698" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1635125871554" />
+    <state width="1493" height="155" key="GridCell.Tab.0.bottom" timestamp="1635124625259">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="155" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1635124625259" />
+    <state width="1493" height="155" key="GridCell.Tab.0.center" timestamp="1635124625259">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="155" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1635124625259" />
+    <state width="1493" height="155" key="GridCell.Tab.0.left" timestamp="1635124625259">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="155" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1635124625259" />
+    <state width="1493" height="155" key="GridCell.Tab.0.right" timestamp="1635124625259">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="155" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1635124625259" />
+    <state width="1493" height="260" key="GridCell.Tab.1.bottom" timestamp="1635094253418">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1635094253418" />
+    <state width="1493" height="260" key="GridCell.Tab.1.center" timestamp="1635094253418">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1635094253418" />
+    <state width="1493" height="260" key="GridCell.Tab.1.left" timestamp="1635094253418">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1635094253418" />
+    <state width="1493" height="260" key="GridCell.Tab.1.right" timestamp="1635094253418">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1635094253418" />
+    <state x="299" y="70" key="Maven.ArtifactSearchDialog" timestamp="1635126882359">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="299" y="70" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1635126882359" />
+    <state x="398" y="0" key="SettingsEditor" timestamp="1635127350708">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="398" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1635127350708" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1634968237995">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1536.824@0.0.1536.824" timestamp="1634968237995" />
+    <state x="747" y="274" key="classpath-attribute-editor" timestamp="1635125912712">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="747" y="274" key="classpath-attribute-editor/0.0.1536.824@0.0.1536.824" timestamp="1635125912712" />
+    <state x="533" y="130" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1635090009712">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="533" y="130" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1635090009712" />
+    <state x="323" y="151" width="889" height="565" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1634988418857">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="323" y="151" width="889" height="565" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1634988418857" />
+    <state x="814" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1635058205779">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="814" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1635058205779" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/FourOperations$ExpressionTest_countanswer.ic" NAME="ExpressionTest.countanswer Coverage Results" MODIFIED="1635090806955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/FourOperations$ExpressionTest_suffixExprssion.ic" NAME="ExpressionTest.suffixExprssion Coverage Results" MODIFIED="1635090689389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/FourOperations$ExpressionTest_infixExpression.ic" NAME="ExpressionTest.infixExpression Coverage Results" MODIFIED="1635090586019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/FourOperations$ExpressionTest_getrandommath.ic" NAME="ExpressionTest.getrandommath Coverage Results" MODIFIED="1635090475912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/FourOperations$ExpressionTest_getoperator.ic" NAME="ExpressionTest.getoperator Coverage Results" MODIFIED="1635090518413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/FourOperations$ExpressionTest_whetherEqual.ic" NAME="ExpressionTest.whetherEqual Coverage Results" MODIFIED="1635093596897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/FourOperations$ExpressionTest.ic" NAME="ExpressionTest Coverage Results" MODIFIED="1635124372976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/FourOperations$ExpressionTest_priority.ic" NAME="ExpressionTest.priority Coverage Results" MODIFIED="1635090349031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/FourOperations$ExpressionTest_jiafen.ic" NAME="ExpressionTest.jiafen Coverage Results" MODIFIED="1635090780776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
