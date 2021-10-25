@@ -33,7 +33,7 @@ public class wenjian_IOTest {
     @Test
     public void writeFile() throws IOException {
         double ssim = 1;
-        String str = "C:/Users/MZ/Desktop//测试文本/test.txt" ;
+        String str = "C:/Users/MZ/Desktop//Testfile/writefiletest.txt" ;
         boolean a;
         a = wenjian_IO.writeFile(str,ssim);
         System.out.println(a);
